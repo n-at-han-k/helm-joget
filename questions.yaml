@@ -31,13 +31,13 @@ questions:
   type: string
   group: "Storage Settings"
 - variable: image.repository
-  default: "jogetworkflow/joget-dx8-tomcat9"
+  default: "jogetworkflow/joget-dx9-tomcat11"
   description: "Container image repository."
   label: Container Image
   type: string
   group: "Deployment Settings"
 - variable: image.tag
-  default: "latest"
+  default: "9.0.4"
   description: "Container image tag."
   label: Container Tag
   type: string

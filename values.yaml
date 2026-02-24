@@ -10,10 +10,10 @@ pvc:
   storageClassName: ""
 
 image:
-  repository: jogetworkflow/joget-dx8-tomcat9
+  repository: jogetworkflow/joget-dx9-tomcat11
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: "latest"
+  tag: "9.0.4"
   volumePath: /opt/joget/wflow
 
 imagePullSecrets: []

@@ -42,9 +42,9 @@ helm repo update
    helm install joget joget/joget --namespace joget
    ```
 
-1. Perform [database setup](https://dev.joget.org/community/display/DX8/Setting+Up+Database)
+1. Perform [database setup](https://dev.joget.org/community/display/DX9/Setting+Up+Database)
 
 # Resources
 
-- [Get Started](https://dev.joget.org/community/display/DX8/Get+Started)
+- [Get Started](https://dev.joget.org/community/display/DX9/Get+Started)
 
