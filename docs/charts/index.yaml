@@ -7,9 +7,9 @@ entries:
       category: PaaS
     apiVersion: v2
     appVersion: 9.0.4
-    created: "2026-02-24T00:34:41.410891482Z"
+    created: "2026-02-24T01:10:05.724076788Z"
     description: Open source no-code/low-code application platform
-    digest: e705689b31b6b12494bd642fd7f00b2870cea7fde1644d39b2d39236c0fea678
+    digest: f9b87d4899fed29056d99817b8e34dce690da33582d8bb50a1d0024466c0c909
     home: https://www.joget.com
     icon: https://www.joget.org/wp-content/uploads/2023/07/Joget_logo_Vertical_Green_Symbol.png
     keywords:
@@ -28,7 +28,7 @@ entries:
       category: PaaS
     apiVersion: v2
     appVersion: 8.2.0
-    created: "2026-02-24T00:34:41.409675223Z"
+    created: "2026-02-24T01:10:05.722505541Z"
     description: Open source no-code/low-code application platform
     digest: 478cb62d5b920df8fc77898e87f170c29679fbfee9d6f55c1a4fd11548b3241e
     home: https://www.joget.com
@@ -49,7 +49,7 @@ entries:
       category: PaaS
     apiVersion: v2
     appVersion: 8.1.11
-    created: "2026-02-24T00:34:41.408704263Z"
+    created: "2026-02-24T01:10:05.721496595Z"
     description: Open source no-code/low-code application platform
     digest: 2d4c6074b9db09eb4d66446f4f591bcb9f6887d7a43ad6559917d5198a0b1cbb
     home: https://www.joget.com
@@ -70,7 +70,7 @@ entries:
       category: PaaS
     apiVersion: v2
     appVersion: 8.0.11
-    created: "2026-02-24T00:34:41.407888982Z"
+    created: "2026-02-24T01:10:05.720653969Z"
     description: Open source no-code/low-code application platform
     digest: df029b6189510a0c56264e81ab1fbb1ed1aea847bc9b58e553730ac19050464f
     home: https://www.joget.com
@@ -91,7 +91,7 @@ entries:
       category: PaaS
     apiVersion: v2
     appVersion: 8.0.11
-    created: "2026-02-24T00:34:41.407348324Z"
+    created: "2026-02-24T01:10:05.720041875Z"
     description: Open source no-code/low-code application platform
     digest: 915257ce5df44b24ef5dc09a927447cb48c91d3b0bf5f8dc8bd114455adbdddc
     home: https://www.joget.com
@@ -106,4 +106,4 @@ entries:
     urls:
     - https://n-at-han-k.github.io/helm-joget/charts/joget-1.0.0.tgz
     version: 1.0.0
-generated: "2026-02-24T00:34:41.406734058Z"
+generated: "2026-02-24T01:10:05.719432015Z"
